@@ -1,0 +1,10 @@
+Secret.py
+*.json
+.gitignore
+.idea/.gitignore
+.idea/GeniusScraper.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/
+venv/
